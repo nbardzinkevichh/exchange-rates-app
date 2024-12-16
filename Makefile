@@ -1,4 +1,5 @@
-install: npm ci
+install: 
+	npm ci
 	npx simple-git-hooks
 
 test:
