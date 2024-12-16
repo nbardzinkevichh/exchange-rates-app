@@ -9,4 +9,4 @@ test-coverage:
 	npm test -- --coverage --coverageProvider=v8
 
 lint:
-	npm eslint .
+	npx eslint .
