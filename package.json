@@ -8,7 +8,7 @@
     "pre-push": "npx lint-staged"
   },
   "scripts": {
-    "test": "npx jest"
+    "test": "npx jest --passWithNoTests"
   },
   "repository": {
     "type": "git",
